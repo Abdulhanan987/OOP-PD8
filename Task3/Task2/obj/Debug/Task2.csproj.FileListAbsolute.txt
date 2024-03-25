@@ -1,0 +1,21 @@
+E:\Semester 2\Lab 8\PD\Task2\Task2\bin\Debug\Task2.exe.config
+E:\Semester 2\Lab 8\PD\Task2\Task2\bin\Debug\Task2.exe
+E:\Semester 2\Lab 8\PD\Task2\Task2\bin\Debug\Task2.pdb
+E:\Semester 2\Lab 8\PD\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+E:\Semester 2\Lab 8\PD\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Semester 2\Lab 8\PD\Task2\Task2\obj\Debug\Task2.exe
+E:\Semester 2\Lab 8\PD\Task2\Task2\obj\Debug\Task2.pdb
+E:\Semester 2\Lab 8\PD\Task3\Task2\bin\Debug\Task2.exe.config
+E:\Semester 2\Lab 8\PD\Task3\Task2\bin\Debug\Task2.exe
+E:\Semester 2\Lab 8\PD\Task3\Task2\bin\Debug\Task2.pdb
+E:\Semester 2\Lab 8\PD\Task3\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+E:\Semester 2\Lab 8\PD\Task3\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Semester 2\Lab 8\PD\Task3\Task2\obj\Debug\Task2.exe
+E:\Semester 2\Lab 8\PD\Task3\Task2\obj\Debug\Task2.pdb
+E:\Semester 2\2023CS105\Task3\Task2\bin\Debug\Task2.exe.config
+E:\Semester 2\2023CS105\Task3\Task2\bin\Debug\Task2.exe
+E:\Semester 2\2023CS105\Task3\Task2\bin\Debug\Task2.pdb
+E:\Semester 2\2023CS105\Task3\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+E:\Semester 2\2023CS105\Task3\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Semester 2\2023CS105\Task3\Task2\obj\Debug\Task2.exe
+E:\Semester 2\2023CS105\Task3\Task2\obj\Debug\Task2.pdb
